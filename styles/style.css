@@ -1,0 +1,215 @@
+@import url("https: //cdn.web-fonts.ge/fonts/bpg-venuri/css/bpg-venuri.min.css");
+body {
+	background-color: lightgreen;
+}
+.upper-block {
+	width: 1088px;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+.main-small {
+	font-size: 14px;
+	color: #5863F8;
+	font-weight: 500;
+}
+
+.title1 {
+	width: 498px;
+	font-size: 42px;
+}
+.main-title {
+	padding-top: 80px;
+}
+
+                /*LEFT BLOCK STARTS*/
+.left-block {
+	display: inline-block;
+	width: 536px;
+	background-color: #F8F8F8;
+    margin-top: 50px;
+}                
+
+.small-title {
+	font-size: 14px;
+	color: #5863F8;
+	padding-top: 37px;
+	padding-left: 16px;
+}
+h5 {
+	font-size: 18px;
+}
+.txt-div-left {
+	display: inline-block;
+	width: 235px;
+	text-align: left;
+	vertical-align: top;
+	padding-left: 16px;
+	margin-top: 37px;
+}
+.left-txt {
+	font-size: 14px;
+	color: #B1B1B1;
+	padding-top: 10px;
+}
+                /*RIGHT BLOCK STARTS*/
+
+.right-block {
+	display: inline-block;
+	width: 536px;
+	background-color: #BE2B2B;
+	margin-left: 16px;
+
+}
+.txt-div-right {
+	display: inline-block;
+	width: 236px;
+	text-align: left;
+	vertical-align: top;
+	padding-left: 16px;
+	margin-top: 37px;
+}
+.small-title-2 {
+	font-size: 14px;
+	color: #5863F8;
+	padding-top: 37px;
+	padding-left: 16px;
+}
+.right-txt {
+	font-size: 14px;
+	color: #B1B1B1;
+	padding-top: 10px;
+}
+
+                /*GEO FONTS FOR FIRST BLOCK*/
+
+.venuri {
+	font-family: "BPG Venuri", sans-serif;
+}
+.geo-bold {
+	font-family: "ALK Life", sans-serif;
+}
+
+                    /*SECOND triple-block SECTION STARTS*/
+
+.lower-block {
+	width: 1088px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.lower-small-title {
+	font-size: 14px;
+	color: #5863F8;
+}
+h3 {
+	font-size: 42px;
+}
+.lower-main-title {
+	margin-top: 100px;
+	width: 465px;
+}
+.lower-small-title2 {
+	font-size: 14px;
+	color: #5863F8;
+}
+h6 {
+	font-size: 18px;
+	padding-top: 5px;
+}
+.lower-small-txt {
+	font-size: 14px;
+	color: #B1B1B1;
+	text-align: center;
+	padding-top: 10px;
+}
+.lower-first-txt {
+	width: 352px;
+	text-align: center;
+	padding-left: 46px;
+	background-color: #F8F8F8;
+}
+
+.lower-first-block {
+	margin-top: 65px;
+	display: inline-block;
+}
+                    /*SECOND LOWER BLOCK STARTS*/
+
+.lower-second-block {
+	display: inline-block;
+	margin-left: 16px;
+
+}
+
+.lower-second-txt {
+	width: 352px;
+	text-align: center;
+	padding-left: 46px;
+	background-color: #F8F8F8;
+}
+.lower-small-txt-second {
+    font-size: 14px;
+	color: #B1B1B1;
+	text-align: center;
+	padding-top: 10px;
+}
+.lower-small-title3 {
+    font-size: 14px;
+	color: #5863F8;
+
+}
+                 /*THIRD LOWER BLOCK STARTS*/
+
+.lower-third-block {
+	display: inline-block;
+	margin-left: 16px;
+
+}
+.lower-third-txt {
+	width: 352px;
+	text-align: center;
+	padding-left: 46px;
+	background-color: #F8F8F8;
+
+}
+.lower-small-title4 {
+	font-size: 14px;
+	color: #5863F8;
+
+}
+.lower-small-txt-third {
+	font-size: 14px;
+	color: #B1B1B1;
+	text-align: center;
+	padding-top: 10px;
+
+}
+
+
+                /*FONTS FOR SECOND BLOCKS*/
+
+h3 {
+	font-family: 'Poppins';
+	font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+.span-poppins {
+	font-family: 'Poppins';
+	font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+h6 {
+	font-family: 'Poppins';
+	font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+.medium-font {
+	font-family: 'Poppins';
+	font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}                
